@@ -1,5 +1,5 @@
 Política Privacidade
-A sua privacidade é importante para nós. O Conversor de Texto respeita a sua privacidade em relação a qualquer informação sua que possamos coletar no aplicativo Conversor de Texto.
+A sua privacidade é importante para nós. Respeitamos a sua privacidade em relação a qualquer informação sua que possamos coletar em nossos aplicativos.
 
 Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
 
@@ -14,12 +14,13 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 O uso continuado de nosso aplicativo será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
 
 Compromisso do Usuário
-O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Conversor de Texto oferece no site e com caráter enunciativo, mas não limitativo:
+O usuário se compromete a fazer uso adequado dos conteúdos e das informações que nossos aplicativos oferecem no site e com caráter enunciativo, mas não limitativo:
 
 A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;
 B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, betano apostas ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos.
-C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Conversor de Texto, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) aos nossos aplicativos, fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
 
 E-mail para contato: eduuusch@gmail.com.
 
 Esta política é efetiva a partir de Fevereiro/2022.
+Data da última atualização: 16/06/2022.
